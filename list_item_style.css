@@ -1,0 +1,30 @@
+
+#main-wrapper{
+    //background-color: aqua;
+    margin: 20px;
+    //padding: 20px;
+}
+
+#our_headline{
+    padding: 0px;
+    margin: 20px 50px;
+}
+
+button{
+  padding: 15px;
+  margin: 0px 30px;
+  border-radius: 5px;
+  background-color: #eee;
+}
+button:hover{
+  background-color: #e37;
+  color: #fff;
+}
+
+#our_list li{
+    color: black;
+}
+#our_list li:hover{
+    background-color: chocolate;
+    color: white;
+}
